@@ -1,3 +1,5 @@
+[![JetBrains team project](https://jb.gg/badges/team.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+
 # PandasPlotBench
 
 This is the benchmark to assess the capability of models in writing the code for visualizations given the description of the Pandas DataFrame.
