@@ -125,5 +125,5 @@ benchmark.run_benchmark()
 
 # Important notes
 
-1. Our approach relies on running LLM-generated code. In addition to safety, there is an issue of having the right libraries installed. The generated code could use libraries that are not installed, and this will lead to failing to build a plit. Perhaps, we should list the installed graphical libraries in the prompt.
+1. Our approach relies on running LLM-generated code. In addition to safety, there is an issue of having the right libraries installed. The generated code could use libraries that are not installed, and this will lead to failing to build a plot. Perhaps, we should list the installed graphical libraries in the prompt.
 2. `time_used_per_item` in statistics includes the waiting time in a case of a time-out.
